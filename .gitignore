@@ -6,4 +6,6 @@ input/SampleSubmission.csv
 inpup/IdLookupTable.csv
 logs
 logs/*
+logs_miw
+logs_miw/*
 dataset_facial-keypoints-detection.zip
