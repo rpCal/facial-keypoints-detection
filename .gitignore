@@ -1,0 +1,9 @@
+input/test.csv
+input/test.zip
+input/training.zip
+input/training.csv
+input/SampleSubmission.csv
+inpup/IdLookupTable.csv
+logs
+logs/*
+dataset_facial-keypoints-detection.zip
