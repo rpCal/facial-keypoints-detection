@@ -8,4 +8,6 @@ logs
 logs/*
 logs_miw
 logs_miw/*
+*.h5
+input/logs_miw_low/
 dataset_facial-keypoints-detection.zip
